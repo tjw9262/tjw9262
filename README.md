@@ -18,8 +18,8 @@ CLIs: Gemini CLI, Mac Terminal
 
 ---
 
-[github.com/TylerWeiss](https://github.com/tjw9262)
-[linkedin.com/in/tyler-weiss22/](linkedin.com/in/tyler-weiss22/)
+- [github.com/TylerWeiss](https://github.com/tjw9262)
+- [linkedin.com/in/tyler-weiss22/](linkedin.com/in/tyler-weiss22/)
 
 <!--
 **tjw9262/tjw9262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
