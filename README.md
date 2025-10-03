@@ -1,10 +1,10 @@
-## Tyler Weiss 👋
+## Tyler Weiss
 
 Aspiring Computer Scientist exploring the world of computing. Aiming to make the world into a better place with my work!
 
 ---
 
-## "Skillsets"
+## Skills
 
 Programming Languages: C, Java, Python
 
